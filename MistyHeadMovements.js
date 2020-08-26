@@ -27,7 +27,7 @@ function getRandomInt(min, max) {
     false);
 }
 
-// timer event with a callback after 5000 - 10000 milliseconds
+// timer event with a callback after 5000 - 10000 milliseconds 
 misty.RegisterTimerEvent("look_around", getRandomInt(5,10)*1000, false);
 
 //LED light pulsing commands
