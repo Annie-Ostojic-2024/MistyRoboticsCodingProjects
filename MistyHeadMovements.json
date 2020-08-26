@@ -1,0 +1,19 @@
+{
+  "Name": "MistyHeadMovements",
+  "UniqueId": "bfa60ae6-861c-4e12-9a13-3562c74f6dac",
+  "Description": "My skill is amazing!",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 600,
+  "CleanupOnCancel": false,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}
