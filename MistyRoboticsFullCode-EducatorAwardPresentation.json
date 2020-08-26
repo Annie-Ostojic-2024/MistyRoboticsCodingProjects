@@ -1,0 +1,19 @@
+{
+  "Name": "EducatorOfDistinctionFullCode",
+  "UniqueId": "51c0c128-69de-4a12-a095-2eaa2d111b91",
+  "Description": "My skill is amazing!",
+  "StartupRules": [
+    "Manual",
+    "Robot"
+  ],
+  "Language": "javascript",
+  "BroadcastMode": "verbose",
+  "TimeoutInSeconds": 600,
+  "CleanupOnCancel": false,
+  "WriteToLog": false,
+  "Parameters": {
+    "int": 10,
+    "double": 20.5,
+    "string": "twenty"
+  }
+}
